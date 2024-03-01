@@ -1,7 +1,7 @@
 {
   "players": [
     {
-      "id": 1,
+      "id": "PLAYER-001",
       "name": "Lionel Messi",
       "description": "Argentinian professional footballer, considered one of the greatest players of all time.",
       "age": 34,
@@ -24,7 +24,7 @@
       }
     },
     {
-      "id": 2,
+      "id": "PLAYER-002",
       "name": "Cristiano Ronaldo",
       "description": "Portuguese professional footballer, known for his goal-scoring prowess.",
       "age": 36,
@@ -47,7 +47,7 @@
       }
     },
     {
-      "id": 3,
+      "id": "PLAYER-003",
       "name": "Neymar Jr",
       "description": "Brazilian professional footballer, known for his skillful playing style.",
       "age": 29,
@@ -70,7 +70,7 @@
       }
     },
     {
-      "id": 4,
+      "id": "PLAYER-004",
       "name": "Kylian Mbappe",
       "description": "French professional footballer, known for his speed and goal-scoring ability.",
       "age": 23,
@@ -93,7 +93,7 @@
       }
     },
     {
-      "id": 5,
+      "id": "PLAYER-005",
       "name": "Kevin De Bruyne",
       "description": "Belgian professional footballer, considered one of the best midfielders in the world.",
       "age": 30,
@@ -116,7 +116,7 @@
       }
     },
     {
-      "id": 6,
+      "id": "PLAYER-006",
       "name": "Mohamed Salah",
       "description": "Egyptian professional footballer, known for his goal-scoring exploits.",
       "age": 29,
@@ -139,7 +139,7 @@
       }
     },
     {
-      "id": 7,
+      "id": "PLAYER-007",
       "name": "Robert Lewandowski",
       "description": "Polish professional footballer, known for his goal-scoring prowess.",
       "age": 33,
@@ -162,7 +162,7 @@
       }
     },
     {
-      "id": 8,
+      "id": "PLAYER-008",
       "name": "Sadio Mane",
       "description": "Senegalese professional footballer, known for his pace and goal-scoring ability.",
       "age": 29,
@@ -185,7 +185,7 @@
       }
     },
     {
-      "id": 9,
+      "id": "PLAYER-009",
       "name": "Bruno Fernandes",
       "description": "Portuguese professional footballer, known for his playmaking abilities.",
       "age": 27,
@@ -208,7 +208,7 @@
       }
     },
     {
-      "id": 10,
+      "id": "PLAYER-010",
       "name": "Harry Kane",
       "description": "English professional footballer, known for his goal-scoring prowess.",
       "age": 28,
