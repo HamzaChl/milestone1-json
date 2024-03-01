@@ -1,0 +1,58 @@
+[
+  {
+    "id": "CLUB-001",
+    "club": "Club Internacional de Fútbol Miami",
+    "league": "MLS",
+    "staduim": "Lockhart Stadium",
+    "manager": "Gerardo Martino"
+  },
+  {
+    "id": "CLUB-002",
+    "club": "Al-Nassr",
+    "league": "Championnat d'Arabie saoudite de football",
+    "staduim": "Al -Awwal Stadium",
+    "manager": "Luís Castro"
+  },
+  {
+    "id": "CLUB-003",
+    "club": "Paris Saint-Germain",
+    "league": "Ligue 1",
+    "staduim": "Le Parc des Princes",
+    "manager": "Luis Enrique"
+  },
+  {
+    "id": "CLUB-004",
+    "club": "Manchester City",
+    "league": "Premier League",
+    "staduim": "Etihad Stadium",
+    "manager": "Pep Guardiola"
+  },
+  {
+    "id": "CLUB-005",
+    "club": "Liverpool",
+    "league": "Premier League",
+    "staduim": "Anfield Stadium",
+    "manager": "Jürgen Klopp"
+  },
+  {
+    "id": "CLUB-006",
+    "club": "Barcelona",
+    "league": "La Liga",
+    "staduim": "Stade olympique Lluís Companys",
+    "manager": "Xavi"
+  },
+  {
+    "id": "CLUB-007",
+    "club": "Manchester United",
+    "league": "Premier League",
+    "staduim": "Old Trafford",
+    "manager": "Erik ten Hag"
+  },
+  {
+    "id": "CLUB-008",
+    "club": "Bayern Munich",
+    "league": "Bundesliga",
+    "staduim": "Allianz Arena",
+    "manager": "Thomas Tuchel"
+  }
+]
