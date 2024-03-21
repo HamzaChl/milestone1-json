@@ -9,7 +9,11 @@
       "birthdate": "1987-06-24",
       "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/messi.webp",
       "status": "active",
-      "hobbies": ["Football", "Soccer", "Gaming"],
+      "hobbies": [
+        "Football",
+        "Soccer",
+        "Gaming"
+      ],
       "goalsScored": 750,
       "assists": 320,
       "nationality": "Argentina",
@@ -21,7 +25,8 @@
         "league": "MLS",
         "staduim": "Lockhart Stadium",
         "manager": "Gerardo Martino"
-      }
+      },
+      "marketValue": "80.000.000€"
     },
     {
       "id": "PLAYER-002",
@@ -32,7 +37,11 @@
       "birthdate": "1985-02-05",
       "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/ronaldo.webp",
       "status": "active",
-      "hobbies": ["Football", "Fitness", "Fashion"],
+      "hobbies": [
+        "Football",
+        "Fitness",
+        "Fashion"
+      ],
       "position": "Forward",
       "number": 7,
       "goalsScored": 805,
@@ -44,7 +53,8 @@
         "league": "Championnat d'Arabie saoudite de football",
         "staduim": "Al -Awwal Stadium",
         "manager": "Luís Castro"
-      }
+      },
+      "marketValue": "75.000.000€"
     },
     {
       "id": "PLAYER-003",
@@ -55,7 +65,11 @@
       "birthdate": "1992-02-05",
       "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/neymar.webp",
       "status": "active",
-      "hobbies": ["Football", "Music", "Travel"],
+      "hobbies": [
+        "Football",
+        "Music",
+        "Travel"
+      ],
       "position": "Forward",
       "number": 10,
       "goalsScored": 200,
@@ -67,7 +81,8 @@
         "league": "Ligue 1",
         "staduim": "Le Parc des Princes",
         "manager": "Luis Enrique"
-      }
+      },
+      "marketValue": "100.000.000€"
     },
     {
       "id": "PLAYER-004",
@@ -78,7 +93,11 @@
       "birthdate": "1998-12-20",
       "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/mbappe.webp",
       "status": "active",
-      "hobbies": ["Football", "Gaming", "Reading"],
+      "hobbies": [
+        "Football",
+        "Gaming",
+        "Reading"
+      ],
       "position": "Forward",
       "number": 7,
       "goalsScored": 120,
@@ -90,7 +109,8 @@
         "league": "Ligue 1",
         "staduim": "Le Parc des Princes",
         "manager": "Luis Enrique"
-      }
+      },
+      "marketValue": "90.000.000€"
     },
     {
       "id": "PLAYER-005",
@@ -101,7 +121,11 @@
       "birthdate": "1991-06-28",
       "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/de-bruyne.webp",
       "status": "active",
-      "hobbies": ["Football", "Golf", "Cooking"],
+      "hobbies": [
+        "Football",
+        "Golf",
+        "Cooking"
+      ],
       "position": "Midfielder",
       "number": 17,
       "goalsScored": 60,
@@ -113,7 +137,8 @@
         "league": "Premier League",
         "staduim": "Etihad Stadium",
         "manager": "Pep Guardiola"
-      }
+      },
+      "marketValue": "70.000.000€"
     },
     {
       "id": "PLAYER-006",
@@ -124,7 +149,11 @@
       "birthdate": "1992-06-15",
       "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/salah.webp",
       "status": "active",
-      "hobbies": ["Football", "Photography", "Philanthropy"],
+      "hobbies": [
+        "Football",
+        "Photography",
+        "Philanthropy"
+      ],
       "position": "Forward",
       "number": 10,
       "goalsScored": 130,
@@ -136,7 +165,8 @@
         "league": "Premier League",
         "staduim": "Anfield Stadium",
         "manager": "Jürgen Klopp"
-      }
+      },
+      "marketValue": "75.000.000€"
     },
     {
       "id": "PLAYER-007",
@@ -147,7 +177,11 @@
       "birthdate": "1988-08-21",
       "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/lewandowski.webp",
       "status": "active",
-      "hobbies": ["Football", "Video Games", "Music"],
+      "hobbies": [
+        "Football",
+        "Video Games",
+        "Music"
+      ],
       "position": "Forward",
       "number": 9,
       "goalsScored": 300,
@@ -159,7 +193,8 @@
         "league": "La Liga",
         "staduim": "Stade olympique Lluís Companys",
         "manager": "Xavi"
-      }
+      },
+      "marketValue": "120.000.000€"
     },
     {
       "id": "PLAYER-008",
@@ -170,7 +205,11 @@
       "birthdate": "1992-04-10",
       "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/mane.webp",
       "status": "active",
-      "hobbies": ["Football", "Reading", "Travel"],
+      "hobbies": [
+        "Football",
+        "Reading",
+        "Travel"
+      ],
       "position": "Forward",
       "number": 10,
       "goalsScored": 100,
@@ -182,7 +221,8 @@
         "league": "Championnat d'Arabie saoudite de football",
         "staduim": "Al -Awwal Stadium",
         "manager": "Luís Castro"
-      }
+      },
+      "marketValue": "70.000.000€"
     },
     {
       "id": "PLAYER-009",
@@ -193,7 +233,11 @@
       "birthdate": "1994-09-08",
       "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/fernandes.webp",
       "status": "active",
-      "hobbies": ["Football", "Gaming", "Music"],
+      "hobbies": [
+        "Football",
+        "Gaming",
+        "Music"
+      ],
       "position": "Midfielder",
       "number": 8,
       "goalsScored": 40,
@@ -205,7 +249,8 @@
         "league": "Premier League",
         "staduim": "Old Trafford",
         "manager": "Erik ten Hag"
-      }
+      },
+      "marketValue": "90.000.000€"
     },
     {
       "id": "PLAYER-010",
@@ -216,7 +261,11 @@
       "birthdate": "1993-07-28",
       "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/kane.webp",
       "status": "active",
-      "hobbies": ["Football", "Golf", "Travel"],
+      "hobbies": [
+        "Football",
+        "Golf",
+        "Travel"
+      ],
       "position": "Forward",
       "number": 10,
       "goalsScored": 170,
@@ -228,7 +277,8 @@
         "league": "Bundesliga",
         "staduim": "Allianz Arena",
         "manager": "Thomas Tuchel"
-      }
+      },
+      "marketValue": "110.000.000€"
     }
   ]
 }
