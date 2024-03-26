@@ -789,6 +789,139 @@
       },
       "marketValue": "60.000.000€",
       "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/default.webp"
+    },
+    {
+      "name": "Marco Asensio",
+      "description": "Spanish professional footballer, known for his versatility and technical ability.",
+      "age": 26,
+      "birthdate": "1996-01-21",
+      "nationality": "Spain",
+      "position": "Midfielder",
+      "goalsScored": 45,
+      "assists": 55,
+      "status": "active",
+      "club-infos": {
+        "id": "CLUB-020",
+        "club": "Real Madrid",
+        "league": "La Liga",
+        "staduim": "Santiago Bernabéu Stadium",
+        "manager": "Carlo Ancelotti"
+      },
+      "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/default.webp"
+    },
+    {
+      "name": "Serge Gnabry",
+      "description": "German professional footballer, known for his pace and goal-scoring ability.",
+      "age": 27,
+      "birthdate": "1995-07-14",
+      "nationality": "Germany",
+      "position": "Forward",
+      "goalsScored": 70,
+      "assists": 40,
+      "status": "active",
+      "club-infos": {
+        "id": "CLUB-021",
+        "club": "Bayern Munich",
+        "league": "Bundesliga",
+        "staduim": "Allianz Arena",
+        "manager": "Julian Nagelsmann"
+      },
+      "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/default.webp"
+    },
+    {
+      "name": "Lorenzo Insigne",
+      "description": "Italian professional footballer, known for his dribbling skills and creativity.",
+      "age": 30,
+      "birthdate": "1991-06-04",
+      "nationality": "Italy",
+      "position": "Forward",
+      "goalsScored": 60,
+      "assists": 70,
+      "status": "active",
+      "club-infos": {
+        "id": "CLUB-022",
+        "club": "Napoli",
+        "league": "Serie A",
+        "staduim": "Stadio Diego Armando Maradona",
+        "manager": "Luciano Spalletti"
+      },
+      "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/default.webp"
+    },
+    {
+      "name": "Kai Havertz",
+      "description": "German professional footballer, known for his versatility and technical ability.",
+      "age": 23,
+      "birthdate": "1999-06-11",
+      "nationality": "Germany",
+      "position": "Midfielder",
+      "goalsScored": 40,
+      "assists": 30,
+      "status": "active",
+      "club-infos": {
+        "id": "CLUB-021",
+        "club": "Chelsea FC",
+        "league": "Premier League",
+        "staduim": "Stamford Bridge",
+        "manager": "Thomas Tuchel"
+      },
+      "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/default.webp"
+    },
+    {
+      "name": "Federico Chiesa",
+      "description": "Italian professional footballer, known for his pace and dribbling skills.",
+      "age": 24,
+      "birthdate": "1997-10-25",
+      "nationality": "Italy",
+      "position": "Forward",
+      "goalsScored": 50,
+      "assists": 40,
+      "status": "active",
+      "club-infos": {
+        "id": "CLUB-023",
+        "club": "Juventus",
+        "league": "Serie A",
+        "staduim": "Allianz Stadium",
+        "manager": "Massimiliano Allegri"
+      },
+      "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/default.webp"
+    },
+    {
+      "name": "Thomas Partey",
+      "description": "Ghanaian professional footballer, known for his strength and passing ability.",
+      "age": 28,
+      "birthdate": "1993-06-13",
+      "nationality": "Ghana",
+      "position": "Midfielder",
+      "goalsScored": 20,
+      "assists": 30,
+      "status": "active",
+      "club-infos": {
+        "id": "CLUB-024",
+        "club": "Arsenal FC",
+        "league": "Premier League",
+        "staduim": "Emirates Stadium",
+        "manager": "Mikel Arteta"
+      },
+      "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/default.webp"
+    },
+    {
+      "name": "Nicolo Barella",
+      "description": "Italian professional footballer, known for his energy and passing ability in midfield.",
+      "age": 25,
+      "birthdate": "1997-02-07",
+      "nationality": "Italy",
+      "position": "Midfielder",
+      "goalsScored": 25,
+      "assists": 35,
+      "status": "active",
+      "club-infos": {
+        "id": "CLUB-025",
+        "club": "Inter Milan",
+        "league": "Serie A",
+        "staduim": "San Siro",
+        "manager": "Simone Inzaghi"
+      },
+      "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/default.webp"
     }
   ]
 }
