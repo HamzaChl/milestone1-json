@@ -591,7 +591,194 @@
     "manager": "Pep Guardiola"
   },
   "marketValue": "80.000.000€"
-}
-
+},
+    {
+      "name": "Luka Modric",
+      "description": "Croatian professional footballer, known for his playmaking abilities and vision on the field.",
+      "age": 37,
+      "birthdate": "1986-09-09",
+      "nationality": "Croatia",
+      "position": "Midfielder",
+      "goalsScored": 50,
+      "assists": 100,
+      "club-infos": {
+        "id": "CLUB-020",
+        "club": "Real Madrid",
+        "league": "La Liga",
+        "staduim": "Santiago Bernabéu Stadium",
+        "manager": "Carlo Ancelotti"
+      },
+      "marketValue": "40.000.000€",
+      "imageURL": "https://example.com/luka-modric.jpg"
+    },
+    {
+      "name": "Robert Firmino",
+      "description": "Brazilian professional footballer, known for his creative playing style and ability to link up play.",
+      "age": 31,
+      "birthdate": "1992-10-02",
+      "nationality": "Brazil",
+      "position": "Forward",
+      "goalsScored": 80,
+      "assists": 60,
+      "club-infos": {
+        "id": "CLUB-009",
+        "club": "Liverpool",
+        "league": "Premier League",
+        "staduim": "Anfield Stadium",
+        "manager": "Jürgen Klopp"
+      },
+      "marketValue": "60.000.000€",
+      "imageURL": "https://example.com/robert-firmino.jpg"
+    },
+    {
+      "name": "Trent Alexander-Arnold",
+      "description": "English professional footballer, known for his exceptional crossing ability and attacking prowess from the right-back position.",
+      "age": 24,
+      "birthdate": "1998-10-07",
+      "nationality": "England",
+      "position": "Defender",
+      "goalsScored": 20,
+      "assists": 70,
+      "club-infos": {
+        "id": "CLUB-009",
+        "club": "Liverpool",
+        "league": "Premier League",
+        "staduim": "Anfield Stadium",
+        "manager": "Jürgen Klopp"
+      },
+      "marketValue": "70.000.000€",
+      "imageURL": "https://example.com/trent-alexander-arnold.jpg"
+    },
+    {
+      "name": "Sergio Ramos",
+      "description": "Spanish professional footballer, known for his leadership and defensive abilities.",
+      "age": 36,
+      "birthdate": "1986-03-30",
+      "nationality": "Spain",
+      "position": "Defender",
+      "goalsScored": 100,
+      "assists": 40,
+      "club-infos": {
+        "id": "CLUB-003",
+        "club": "Paris Saint-Germain",
+        "league": "Ligue 1",
+        "staduim": "Le Parc des Princes",
+        "manager": "Luis Enrique"
+      },
+      "marketValue": "30.000.000€",
+      "imageURL": "https://example.com/sergio-ramos.jpg"
+    },
+    {
+      "name": "Son Heung-min",
+      "description": "South Korean professional footballer, known for his speed and clinical finishing.",
+      "age": 30,
+      "birthdate": "1992-07-08",
+      "nationality": "South Korea",
+      "position": "Forward",
+      "goalsScored": 150,
+      "assists": 70,
+      "club-infos": {
+        "id": "CLUB-021",
+        "club": "Tottenham Hotspur",
+        "league": "Premier League",
+        "staduim": "Tottenham Hotspur Stadium",
+        "manager": "Antonio Conte"
+      },
+      "marketValue": "80.000.000€",
+      "imageURL": "https://example.com/son-heung-min.jpg"
+    },
+    {
+      "name": "N'Golo Kanté",
+      "description": "French professional footballer, known for his tireless work rate and midfield interceptions.",
+      "age": 31,
+      "birthdate": "1991-03-29",
+      "nationality": "France",
+      "position": "Midfielder",
+      "goalsScored": 20,
+      "assists": 30,
+      "club-infos": {
+        "id": "CLUB-008",
+        "club": "Chelsea FC",
+        "league": "Premier League",
+        "staduim": "Stamford Bridge",
+        "manager": "Thomas Tuchel"
+      },
+      "marketValue": "50.000.000€",
+      "imageURL": "https://example.com/ngolo-kante.jpg"
+    },
+    {
+      "name": "Gianluigi Donnarumma",
+      "description": "Italian professional footballer, considered one of the best goalkeepers in the world.",
+      "age": 24,
+      "birthdate": "1999-02-25",
+      "nationality": "Italy",
+      "position": "Goalkeeper",
+      "cleanSheets": 100,
+      "club-infos": {
+        "id": "CLUB-003",
+        "club": "Paris Saint-Germain",
+        "league": "Ligue 1",
+        "staduim": "Le Parc des Princes",
+        "manager": "Luis Enrique"
+      },
+      "marketValue": "60.000.000€",
+      "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/default.webp"
+    },
+    {
+      "name": "Jorginho",
+      "description": "Italian-Brazilian professional footballer, known for his passing accuracy and composure in midfield.",
+      "age": 30,
+      "birthdate": "1991-12-20",
+      "nationality": "Italy",
+      "position": "Midfielder",
+      "goalsScored": 30,
+      "assists": 50,
+      "club-infos": {
+        "id": "CLUB-008",
+        "club": "Chelsea FC",
+        "league": "Premier League",
+        "staduim": "Stamford Bridge",
+        "manager": "Thomas Tuchel"
+      },
+      "marketValue": "40.000.000€",
+      "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/default.webp"
+    },
+    {
+      "name": "João Félix",
+      "description": "Portuguese professional footballer, known for his dribbling skills and versatility in attack.",
+      "age": 23,
+      "birthdate": "1999-11-10",
+      "nationality": "Portugal",
+      "position": "Forward",
+      "goalsScored": 40,
+      "assists": 20,
+      "club-infos": {
+        "id": "CLUB-019",
+        "club": "Atlético Madrid",
+        "league": "La Liga",
+        "staduim": "Wanda Metropolitano",
+        "manager": "Diego Simeone"
+      },
+      "marketValue": "70.000.000€",
+      "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/default.webp"
+    },
+    {
+      "name": "Alisson Becker",
+      "description": "Brazilian professional footballer, known for his shot-stopping ability and distribution as a goalkeeper.",
+      "age": 30,
+      "birthdate": "1992-10-02",
+      "nationality": "Brazil",
+      "position": "Goalkeeper",
+      "cleanSheets": 120,
+      "club-infos": {
+        "id": "CLUB-009",
+        "club": "Liverpool",
+        "league": "Premier League",
+        "staduim": "Anfield Stadium",
+        "manager": "Jürgen Klopp"
+      },
+      "marketValue": "60.000.000€",
+      "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/default.webp"
+    }
   ]
 }
