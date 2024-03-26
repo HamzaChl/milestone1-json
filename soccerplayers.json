@@ -503,7 +503,7 @@
   "age": 22,
   "isActive": true,
   "birthdate": "2000-03-25",
-  "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/default.webp",
+  "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/sancho.webp",
   "status": "active",
   "hobbies": ["Football", "Music", "Gaming"],
   "position": "Forward",
@@ -527,7 +527,7 @@
   "age": 31,
   "isActive": true,
   "birthdate": "1991-03-21",
-  "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/default.webp",
+  "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/griezman.webp",
   "status": "active",
   "hobbies": ["Football", "Basketball", "Video Games"],
   "position": "Forward",
@@ -551,7 +551,7 @@
   "age": 35,
   "isActive": true,
   "birthdate": "1987-01-24",
-  "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/default.webp",
+  "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/suarez.webp",
   "status": "active",
   "hobbies": ["Football", "Golf", "Music"],
   "position": "Forward",
@@ -575,7 +575,7 @@
   "age": 28,
   "isActive": true,
   "birthdate": "1995-12-08",
-  "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/default.webp",
+  "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/Sterling.webp",
   "status": "active",
   "hobbies": ["Football", "Reading", "Travel"],
   "position": "Forward",
@@ -610,7 +610,7 @@
         "manager": "Carlo Ancelotti"
       },
       "marketValue": "40.000.000€",
-      "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/default.webp"
+      "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/modric.webp"
     },
     {
       "name": "Robert Firmino",
