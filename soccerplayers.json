@@ -807,6 +807,7 @@
         "staduim": "Santiago Bernabéu Stadium",
         "manager": "Carlo Ancelotti"
       },
+      "marketValue": "70.000.000€",
       "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/default.webp"
     },
     {
@@ -826,6 +827,7 @@
         "staduim": "Allianz Arena",
         "manager": "Julian Nagelsmann"
       },
+      "marketValue": "80.000.000€",
       "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/default.webp"
     },
     {
@@ -845,6 +847,7 @@
         "staduim": "Stadio Diego Armando Maradona",
         "manager": "Luciano Spalletti"
       },
+      "marketValue": "60.000.000€",
       "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/default.webp"
     },
     {
@@ -864,6 +867,7 @@
         "staduim": "Stamford Bridge",
         "manager": "Thomas Tuchel"
       },
+      "marketValue": "90.000.000€",
       "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/default.webp"
     },
     {
@@ -883,6 +887,7 @@
         "staduim": "Allianz Stadium",
         "manager": "Massimiliano Allegri"
       },
+      "marketValue": "75.000.000€",
       "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/default.webp"
     },
     {
@@ -893,34 +898,136 @@
       "nationality": "Ghana",
       "position": "Midfielder",
       "goalsScored": 20,
-      "assists": 30,
+      "assists": 25,
       "status": "active",
       "club-infos": {
         "id": "CLUB-024",
-        "club": "Arsenal FC",
+        "club": "Arsenal",
         "league": "Premier League",
         "staduim": "Emirates Stadium",
         "manager": "Mikel Arteta"
       },
+      "marketValue": "50.000.000€",
       "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/default.webp"
     },
     {
-      "name": "Nicolo Barella",
-      "description": "Italian professional footballer, known for his energy and passing ability in midfield.",
-      "age": 25,
-      "birthdate": "1997-02-07",
-      "nationality": "Italy",
-      "position": "Midfielder",
-      "goalsScored": 25,
-      "assists": 35,
+      "name": "Riyad Mahrez",
+      "description": "Algerian professional footballer, known for his dribbling skills and agility.",
+      "age": 31,
+      "birthdate": "1990-02-21",
+      "nationality": "Algeria",
+      "position": "Forward",
+      "goalsScored": 70,
+      "assists": 80,
       "status": "active",
       "club-infos": {
-        "id": "CLUB-025",
-        "club": "Inter Milan",
-        "league": "Serie A",
-        "staduim": "San Siro",
-        "manager": "Simone Inzaghi"
+        "id": "CLUB-019",
+        "club": "Manchester City",
+        "league": "Premier League",
+        "staduim": "Etihad Stadium",
+        "manager": "Pep Guardiola"
       },
+      "marketValue": "70.000.000€",
+      "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/default.webp"
+    },
+    {
+      "name": "João Félix",
+      "description": "Portuguese professional footballer, known for his dribbling skills and finishing ability.",
+      "age": 23,
+      "birthdate": "1999-11-10",
+      "nationality": "Portugal",
+      "position": "Forward",
+      "goalsScored": 30,
+      "assists": 20,
+      "status": "active",
+      "club-infos": {
+        "id": "CLUB-017",
+        "club": "Atlético Madrid",
+        "league": "La Liga",
+        "staduim": "Wanda Metropolitano",
+        "manager": "Diego Simeone"
+      },
+      "marketValue": "80.000.000€",
+      "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/default.webp"
+    },
+     {
+      "name": "Andrés Iniesta",
+      "description": "Spanish former professional footballer, renowned for his vision and passing ability.",
+      "age": 39,
+      "birthdate": "1984-05-11",
+      "nationality": "Spain",
+      "position": "Midfielder",
+      "goalsScored": 100,
+      "assists": 200,
+      "status": "inactive",
+      "club-infos": {
+        "id": "CLUB-025",
+        "club": "Retired",
+        "league": "N/A",
+        "staduim": "N/A",
+        "manager": "N/A"
+      },
+      "marketValue": "N/A",
+      "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/default.webp"
+    },
+    {
+      "name": "Paolo Maldini",
+      "description": "Italian former professional footballer, known for his exceptional defending and leadership.",
+      "age": 54,
+      "birthdate": "1968-06-26",
+      "nationality": "Italy",
+      "position": "Defender",
+      "goalsScored": 40,
+      "assists": 30,
+      "status": "inactive",
+      "club-infos": {
+        "id": "CLUB-025",
+        "club": "Retired",
+        "league": "N/A",
+        "staduim": "N/A",
+        "manager": "N/A"
+      },
+      "marketValue": "N/A",
+      "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/default.webp"
+    },
+    {
+      "name": "Xavi Hernandez",
+      "description": "Spanish former professional footballer, known for his exceptional passing and game intelligence.",
+      "age": 43,
+      "birthdate": "1979-01-25",
+      "nationality": "Spain",
+      "position": "Midfielder",
+      "goalsScored": 80,
+      "assists": 150,
+      "status": "inactive",
+      "club-infos": {
+        "id": "CLUB-025",
+        "club": "Retired",
+        "league": "N/A",
+        "staduim": "N/A",
+        "manager": "N/A"
+      },
+      "marketValue": "N/A",
+      "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/default.webp"
+    },
+    {
+      "name": "Franz Beckenbauer",
+      "description": "German former professional footballer, known for his elegance and versatility as a player.",
+      "age": 76,
+      "birthdate": "1945-09-11",
+      "nationality": "Germany",
+      "position": "Defender",
+      "goalsScored": 50,
+      "assists": 60,
+      "status": "inactive",
+      "club-infos": {
+        "id": "CLUB-025",
+        "club": "Retired",
+        "league": "N/A",
+        "staduim": "N/A",
+        "manager": "N/A"
+      },
+      "marketValue": "N/A",
       "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/default.webp"
     }
   ]
