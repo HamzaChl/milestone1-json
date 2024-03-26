@@ -399,7 +399,104 @@
     "manager": "Carlo Ancelotti"
   },
   "marketValue": "70.000.000€"
+},
+    {
+  "id": "PLAYER-016",
+  "name": "Kevin Volland",
+  "description": "German professional footballer, known for his versatility and goal-scoring ability.",
+  "age": 30,
+  "isActive": true,
+  "birthdate": "1994-07-30",
+  "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/volland.webp",
+  "status": "active",
+  "hobbies": ["Football", "Music", "Travel"],
+  "position": "Forward",
+  "number": 11,
+  "goalsScored": 120,
+  "assists": 70,
+  "nationality": "Germany",
+  "club-infos": {
+    "id": "CLUB-014",
+    "club": "AS Monaco",
+    "league": "Ligue 1",
+    "staduim": "Stade Louis II",
+    "manager": "Philippe Clement"
+  },
+  "marketValue": "50.000.000€"
+},
+{
+  "id": "PLAYER-017",
+  "name": "Romelu Lukaku",
+  "description": "Belgian professional footballer, known for his strength and goal-scoring prowess.",
+  "age": 29,
+  "isActive": true,
+  "birthdate": "1993-05-13",
+  "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/lukaku.webp",
+  "status": "active",
+  "hobbies": ["Football", "Gaming", "Music"],
+  "position": "Forward",
+  "number": 9,
+  "goalsScored": 250,
+  "assists": 90,
+  "nationality": "Belgium",
+  "club-infos": {
+    "id": "CLUB-015",
+    "club": "Chelsea FC",
+    "league": "Premier League",
+    "staduim": "Stamford Bridge",
+    "manager": "Thomas Tuchel"
+  },
+  "marketValue": "90.000.000€"
+},
+{
+  "id": "PLAYER-018",
+  "name": "Marcus Rashford",
+  "description": "English professional footballer, known for his speed and humanitarian efforts.",
+  "age": 24,
+  "isActive": true,
+  "birthdate": "1997-10-31",
+  "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/rashford.webp",
+  "status": "active",
+  "hobbies": ["Football", "Reading", "Philanthropy"],
+  "position": "Forward",
+  "number": 10,
+  "goalsScored": 80,
+  "assists": 60,
+  "nationality": "England",
+  "club-infos": {
+    "id": "CLUB-007",
+    "club": "Manchester United",
+    "league": "Premier League",
+    "staduim": "Old Trafford",
+    "manager": "Erik ten Hag"
+  },
+  "marketValue": "70.000.000€"
+},
+{
+  "id": "PLAYER-019",
+  "name": "Frenkie de Jong",
+  "description": "Dutch professional footballer, known for his technical skills and vision on the field.",
+  "age": 25,
+  "isActive": true,
+  "birthdate": "1997-05-12",
+  "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/dejong.webp",
+  "status": "active",
+  "hobbies": ["Football", "Gaming", "Travel"],
+  "position": "Midfielder",
+  "number": 21,
+  "goalsScored": 30,
+  "assists": 40,
+  "nationality": "Netherlands",
+  "club-infos": {
+    "id": "CLUB-006",
+    "club": "FC Barcelona",
+    "league": "La Liga",
+    "staduim": "Camp Nou",
+    "manager": "Xavi"
+  },
+  "marketValue": "80.000.000€"
 }
+
 
 
   ]
