@@ -279,6 +279,55 @@
         "manager": "Thomas Tuchel"
       },
       "marketValue": "110.000.000€"
-    }
+    },
+    {
+  "id": "PLAYER-011",
+  "name": "Virgil van Dijk",
+  "description": "Dutch professional footballer, known for his defensive skills and leadership.",
+  "age": 30,
+  "isActive": true,
+  "birthdate": "1991-07-08",
+  "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/van-dijk.webp",
+  "status": "active",
+  "hobbies": ["Football", "Reading", "Video Games"],
+  "position": "Defender",
+  "number": 4,
+  "goalsScored": 20,
+  "assists": 10,
+  "nationality": "Netherlands",
+  "club-infos": {
+    "id": "CLUB-009",
+    "club": "Liverpool",
+    "league": "Premier League",
+    "staduim": "Anfield Stadium",
+    "manager": "Jürgen Klopp"
+  },
+  "marketValue": "60.000.000€"
+},
+{
+  "id": "PLAYER-012",
+  "name": "Erling Haaland",
+  "description": "Norwegian professional footballer, known for his goal-scoring prowess.",
+  "age": 21,
+  "isActive": true,
+  "birthdate": "2000-07-21",
+  "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/haaland.webp",
+  "status": "active",
+  "hobbies": ["Football", "Skiing", "Music"],
+  "position": "Forward",
+  "number": 9,
+  "goalsScored": 80,
+  "assists": 20,
+  "nationality": "Norway",
+  "club-infos": {
+    "id": "CLUB-010",
+    "club": "Borussia Dortmund",
+    "league": "Bundesliga",
+    "staduim": "Signal Iduna Park",
+    "manager": "Marco Rose"
+  },
+  "marketValue": "100.000.000€"
+}
+
   ]
 }
