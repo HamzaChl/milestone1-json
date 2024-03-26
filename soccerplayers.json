@@ -495,7 +495,32 @@
     "manager": "Xavi"
   },
   "marketValue": "80.000.000€"
+},
+    {
+  "id": "PLAYER-020",
+  "name": "Jadon Sancho",
+  "description": "English professional footballer, known for his dribbling skills and creativity.",
+  "age": 22,
+  "isActive": true,
+  "birthdate": "2000-03-25",
+  "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/default.webp",
+  "status": "active",
+  "hobbies": ["Football", "Music", "Gaming"],
+  "position": "Forward",
+  "number": 7,
+  "goalsScored": 50,
+  "assists": 70,
+  "nationality": "England",
+  "club-infos": {
+    "id": "CLUB-016",
+    "club": "Manchester United",
+    "league": "Premier League",
+    "staduim": "Old Trafford",
+    "manager": "Erik ten Hag"
+  },
+  "marketValue": "90.000.000€"
 }
+
 
 
 
