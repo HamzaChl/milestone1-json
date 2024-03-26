@@ -1,7 +1,7 @@
 [
   {
     "id": "CLUB-001",
-    "club": "Club Internacional de Fútbol Miami",
+    "club": "Internacional Miami",
     "league": "MLS",
     "staduim": "Lockhart Stadium",
     "manager": "Gerardo Martino"
@@ -9,7 +9,7 @@
   {
     "id": "CLUB-002",
     "club": "Al-Nassr",
-    "league": "Championnat d'Arabie saoudite de football",
+        "league": "Saudi Professional League",
     "staduim": "Al -Awwal Stadium",
     "manager": "Luís Castro"
   },
