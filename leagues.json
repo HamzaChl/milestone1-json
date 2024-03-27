@@ -1,0 +1,93 @@
+[
+  {
+    "League": "Premier League",
+    "Total Market Value": "£500M",
+    "Country": "England",
+    "Active": "active",
+    "Last Updated": "2024-03-27"
+  },
+  {
+    "League": "La Liga",
+    "Total Market Value": "€400M",
+    "Country": "Spain",
+    "Active": "active",
+    "Last Updated": "2024-03-27"
+  },
+  {
+    "League": "Bundesliga",
+    "Total Market Value": "€350M",
+    "Country": "Germany",
+    "Active": "active",
+    "Last Updated": "2024-03-27"
+  },
+  {
+    "League": "Serie A",
+    "Total Market Value": "€300M",
+    "Country": "Italy",
+    "Active": "active",
+    "Last Updated": "2024-03-27"
+  },
+  {
+    "League": "Ligue 1",
+    "Total Market Value": "€250M",
+    "Country": "France",
+    "Active": "active",
+    "Last Updated": "2024-03-27"
+  },
+  {
+    "League": "Primeira Liga",
+    "Total Market Value": "€200M",
+    "Country": "Portugal",
+    "Active": "active",
+    "Last Updated": "2024-03-27"
+  },
+  {
+    "League": "Eredivisie",
+    "Total Market Value": "€150M",
+    "Country": "Netherlands",
+    "Active": "active",
+    "Last Updated": "2024-03-27"
+  },
+  {
+    "League": "Russian Premier League",
+    "Total Market Value": "₽20000M",
+    "Country": "Russia",
+    "Active": "active",
+    "Last Updated": "2024-03-27"
+  },
+  {
+    "League": "Super Lig",
+    "Total Market Value": "₺200M",
+    "Country": "Turkey",
+    "Active": "active",
+    "Last Updated": "2024-03-27"
+  },
+  {
+    "League": "Belgian Pro League",
+    "Total Market Value": "€100M",
+    "Country": "Belgium",
+    "Active": "active",
+    "Last Updated": "2024-03-27"
+  },
+  {
+    "League": "Scottish Premiership",
+    "Total Market Value": "£100M",
+    "Country": "Scotland",
+    "Active": "active",
+    "Last Updated": "2024-03-27"
+  },
+  {
+    "League": "Swiss Super League",
+    "Total Market Value": "CHF 100M",
+    "Country": "Switzerland",
+    "Active": "active",
+    "Last Updated": "2024-03-27"
+  },
+  {
+    "League": "Austrian Bundesliga",
+    "Total Market Value": "€80M",
+    "Country": "Austria",
+    "Active": "active",
+    "Last Updated": "2024-03-27"
+  }
+]
