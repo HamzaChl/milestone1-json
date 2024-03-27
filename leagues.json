@@ -41,6 +41,13 @@
     "Active": "active",
     "Last Updated": "2024-03-27"
   },
+   {
+    "League": "Soviet Top League",
+    "Total Market Value": "₽500M",
+    "Country": "Soviet Union",
+    "Active": "inactive",
+    "Last Updated": "2024-03-27"
+  },
   {
     "League": "Eredivisie",
     "Total Market Value": "€150M",
@@ -77,6 +84,13 @@
     "Last Updated": "2024-03-27"
   },
   {
+    "League": "Football League One",
+    "Total Market Value": "£300M",
+    "Country": "England",
+    "Active": "inactive",
+    "Last Updated": "2024-03-27"
+  },
+  {
     "League": "Swiss Super League",
     "Total Market Value": "CHF 100M",
     "Country": "Switzerland",
@@ -87,6 +101,76 @@
     "League": "Austrian Bundesliga",
     "Total Market Value": "€80M",
     "Country": "Austria",
+    "Active": "active",
+    "Last Updated": "2024-03-27"
+  },
+   {
+    "League": "Brazillian Serie A",
+    "Total Market Value": "R$ 1B",
+    "Country": "Brazil",
+    "Active": "active",
+    "Last Updated": "2024-03-27"
+  },
+  {
+    "League": "Argentinian Primera Division",
+    "Total Market Value": "$700M",
+    "Country": "Argentina",
+    "Active": "active",
+    "Last Updated": "2024-03-27"
+  },
+  {
+    "League": "MLS",
+    "Total Market Value": "$900M",
+    "Country": "USA",
+    "Active": "active",
+    "Last Updated": "2024-03-27"
+  },
+  {
+    "League": "Chinese Super League",
+    "Total Market Value": "¥5B",
+    "Country": "China",
+    "Active": "active",
+    "Last Updated": "2024-03-27"
+  },
+  {
+    "League": "Japanese J1 League",
+    "Total Market Value": "¥800M",
+    "Country": "Japan",
+    "Active": "active",
+    "Last Updated": "2024-03-27"
+  },
+  {
+    "League": "K-League",
+    "Total Market Value": "₩300B",
+    "Country": "South Korea",
+    "Active": "active",
+    "Last Updated": "2024-03-27"
+  },
+  {
+    "League": "Australian A-League",
+    "Total Market Value": "AU$200M",
+    "Country": "Australia",
+    "Active": "active",
+    "Last Updated": "2024-03-27"
+  },
+  {
+    "League": "Portuguese Primeira Liga",
+    "Total Market Value": "€250M",
+    "Country": "Portugal",
+    "Active": "active",
+    "Last Updated": "2024-03-27"
+  },
+  {
+    "League": "Russian Football National League",
+    "Total Market Value": "₽1500M",
+    "Country": "Russia",
+    "Active": "active",
+    "Last Updated": "2024-03-27"
+  },
+  {
+    "League": "Mexican Liga MX",
+    "Total Market Value": "$1B",
+    "Country": "Mexico",
     "Active": "active",
     "Last Updated": "2024-03-27"
   }
