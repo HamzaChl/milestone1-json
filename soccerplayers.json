@@ -968,7 +968,7 @@
         "manager": "N/A"
       },
       "marketValue": "N/A",
-      "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/iniesta.webp"
+      "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/default.webp"
     },
     {
       "name": "Paolo Maldini",
@@ -988,7 +988,7 @@
         "manager": "N/A"
       },
       "marketValue": "N/A",
-      "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/default.webp"
+      "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/maldini.webp"
     },
     {
       "name": "Xavi Hernandez",
@@ -1028,7 +1028,7 @@
         "manager": "N/A"
       },
       "marketValue": "N/A",
-      "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/default.webp"
+      "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/beckenbauer.webp"
     }
   ]
 }
