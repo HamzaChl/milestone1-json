@@ -368,13 +368,13 @@
   "assists": 90,
   "nationality": "France",
   "club-infos": {
-    "id": "CLUB-012",
-    "club": "Manchester United",
-    "league": "Premier League",
-    "staduim": "Old Trafford",
-    "manager": "Erik ten Hag"
-  },
-  "marketValue": "60.000.000€"
+        "id": "CLUB-025",
+        "club": "Retired",
+        "league": "N/A",
+        "staduim": "N/A",
+        "manager": "N/A"
+      },
+  "marketValue": "N/A"
 },
 {
   "id": "PLAYER-015",
@@ -390,15 +390,14 @@
   "number": 7,
   "goalsScored": 80,
   "assists": 120,
-  "nationality": "Belgium",
   "club-infos": {
-    "id": "CLUB-013",
-    "club": "Real Madrid",
-    "league": "La Liga",
-    "staduim": "Santiago Bernabéu Stadium",
-    "manager": "Carlo Ancelotti"
-  },
-  "marketValue": "70.000.000€"
+        "id": "CLUB-025",
+        "club": "Retired",
+        "league": "N/A",
+        "staduim": "N/A",
+        "manager": "N/A"
+      },
+  "marketValue": "N/A"
 },
     {
   "id": "PLAYER-016",
