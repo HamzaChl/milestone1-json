@@ -88,7 +88,7 @@
   "id": "PLAYER-040",
   "name": "Diego Maradona",
   "description": "Argentinian professional footballer, widely regarded as one of the greatest players of all time.",
-  "age": 60,
+  "age": "60 deceased",
   "isActive": false,
   "birthdate": "1960-10-30",
   "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/maradona.webp",
