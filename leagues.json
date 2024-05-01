@@ -1,175 +1,200 @@
 [
   {
+    "id": "LEAGUE-001",
     "League": "Premier League",
-    "Total Market Value": "£11.080.000.000",
+    "Total Market Value": "£11,080,000,000",
     "Country": "England",
     "Active": "active",
     "Last Updated": "2024-03-27"
   },
   {
+    "id": "LEAGUE-002",
     "League": "La Liga",
-    "Total Market Value": "€4.970.000.000",
+    "Total Market Value": "€4,970,000,000",
     "Country": "Spain",
     "Active": "active",
     "Last Updated": "2024-03-27"
   },
   {
+    "id": "LEAGUE-003",
     "League": "Bundesliga",
-    "Total Market Value": "€4.450.000.000",
+    "Total Market Value": "€4,450,000,000",
     "Country": "Germany",
     "Active": "active",
     "Last Updated": "2024-03-27"
   },
   {
+    "id": "LEAGUE-004",
     "League": "Serie A",
-    "Total Market Value": "€300M",
+    "Total Market Value": "€300,000,000",
     "Country": "Italy",
     "Active": "active",
     "Last Updated": "2024-03-27"
   },
   {
+    "id": "LEAGUE-005",
     "League": "Ligue 1",
-    "Total Market Value": "€250M",
+    "Total Market Value": "€250,000,000",
     "Country": "France",
     "Active": "active",
     "Last Updated": "2024-03-27"
   },
   {
+    "id": "LEAGUE-006",
     "League": "Primeira Liga",
-    "Total Market Value": "€200M",
+    "Total Market Value": "€200,000,000",
     "Country": "Portugal",
     "Active": "active",
     "Last Updated": "2024-03-27"
   },
-   {
+  {
+    "id": "LEAGUE-007",
     "League": "Soviet Top League",
-    "Total Market Value": "₽500M",
+    "Total Market Value": "₽500,000,000",
     "Country": "Soviet Union",
     "Active": "inactive",
     "Last Updated": "2024-03-27"
   },
   {
+    "id": "LEAGUE-008",
     "League": "Eredivisie",
-    "Total Market Value": "€150M",
+    "Total Market Value": "€150,000,000",
     "Country": "Netherlands",
     "Active": "active",
     "Last Updated": "2024-03-27"
   },
   {
+    "id": "LEAGUE-009",
     "League": "Russian Premier League",
-    "Total Market Value": "₽20000M",
+    "Total Market Value": "₽20,000,000,000",
     "Country": "Russia",
     "Active": "active",
     "Last Updated": "2024-03-27"
   },
   {
+    "id": "LEAGUE-010",
     "League": "Super Lig",
-    "Total Market Value": "₺200M",
+    "Total Market Value": "₺200,000,000",
     "Country": "Turkey",
     "Active": "active",
     "Last Updated": "2024-03-27"
   },
   {
+    "id": "LEAGUE-011",
     "League": "Belgian Pro League",
-    "Total Market Value": "€100M",
+    "Total Market Value": "€100,000,000",
     "Country": "Belgium",
     "Active": "active",
     "Last Updated": "2024-03-27"
   },
   {
+    "id": "LEAGUE-012",
     "League": "Scottish Premiership",
-    "Total Market Value": "£100M",
+    "Total Market Value": "£100,000,000",
     "Country": "Scotland",
     "Active": "active",
     "Last Updated": "2024-03-27"
   },
   {
+    "id": "LEAGUE-013",
     "League": "Football League One",
-    "Total Market Value": "£300M",
+    "Total Market Value": "£300,000,000",
     "Country": "England",
     "Active": "inactive",
     "Last Updated": "2024-03-27"
   },
   {
+    "id": "LEAGUE-014",
     "League": "Swiss Super League",
-    "Total Market Value": "CHF 100M",
+    "Total Market Value": "CHF 100,000,000",
     "Country": "Switzerland",
     "Active": "active",
     "Last Updated": "2024-03-27"
   },
   {
+    "id": "LEAGUE-015",
     "League": "Austrian Bundesliga",
-    "Total Market Value": "€80M",
+    "Total Market Value": "€80,000,000",
     "Country": "Austria",
     "Active": "active",
     "Last Updated": "2024-03-27"
   },
-   {
+  {
+    "id": "LEAGUE-016",
     "League": "Brazillian Serie A",
-    "Total Market Value": "R$ 1B",
+    "Total Market Value": "R$ 1,000,000,000",
     "Country": "Brazil",
     "Active": "active",
     "Last Updated": "2024-03-27"
   },
   {
+    "id": "LEAGUE-017",
     "League": "Argentinian Primera Division",
-    "Total Market Value": "$700M",
+    "Total Market Value": "$700,000,000",
     "Country": "Argentina",
     "Active": "active",
     "Last Updated": "2024-03-27"
   },
   {
+    "id": "LEAGUE-018",
     "League": "MLS",
-    "Total Market Value": "$900M",
+    "Total Market Value": "$900,000,000",
     "Country": "USA",
     "Active": "active",
     "Last Updated": "2024-03-27"
   },
   {
+    "id": "LEAGUE-019",
     "League": "Chinese Super League",
-    "Total Market Value": "¥5B",
+    "Total Market Value": "¥5,000,000,000",
     "Country": "China",
     "Active": "active",
     "Last Updated": "2024-03-27"
   },
   {
+    "id": "LEAGUE-020",
     "League": "Japanese J1 League",
-    "Total Market Value": "¥800M",
+    "Total Market Value": "¥800,000,000",
     "Country": "Japan",
     "Active": "active",
     "Last Updated": "2024-03-27"
   },
   {
+    "id": "LEAGUE-021",
     "League": "K-League",
-    "Total Market Value": "₩300B",
+    "Total Market Value": "₩300,000,000,000",
     "Country": "South Korea",
     "Active": "active",
     "Last Updated": "2024-03-27"
   },
   {
+    "id": "LEAGUE-022",
     "League": "Australian A-League",
-    "Total Market Value": "AU$200M",
+    "Total Market Value": "AU$200,000,000",
     "Country": "Australia",
     "Active": "active",
     "Last Updated": "2024-03-27"
   },
   {
+    "id": "LEAGUE-023",
     "League": "Portuguese Primeira Liga",
-    "Total Market Value": "€250M",
+    "Total Market Value": "€250,000,000",
     "Country": "Portugal",
     "Active": "active",
     "Last Updated": "2024-03-27"
   },
   {
+    "id": "LEAGUE-024",
     "League": "Russian Football National League",
-    "Total Market Value": "₽1500M",
+    "Total Market Value": "₽1,500,000,000",
     "Country": "Russia",
     "Active": "active",
     "Last Updated": "2024-03-27"
   },
   {
+    "id": "LEAGUE-025",
     "League": "Mexican Liga MX",
-    "Total Market Value": "$1B",
+    "Total Market Value": "$1,000,000,000",
     "Country": "Mexico",
     "Active": "active",
     "Last Updated": "2024-03-27"
