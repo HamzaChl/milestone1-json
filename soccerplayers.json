@@ -855,6 +855,7 @@
     "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/gnabry.webp"
   },
   {
+    "id": "PLAYER-035",
     "name": "Lorenzo Insigne",
     "description": "Italian professional footballer, known for his dribbling skills and creativity.",
     "age": 30,
@@ -876,6 +877,7 @@
     "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/insigne.webp"
   },
   {
+    "id": "PLAYER-036",
     "name": "Kai Havertz",
     "description": "German professional footballer, known for his versatility and technical ability.",
     "age": 23,
@@ -897,6 +899,7 @@
     "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/havertz.webp"
   },
   {
+    "id": "PLAYER-037",
     "name": "Federico Chiesa",
     "description": "Italian professional footballer, known for his pace and dribbling skills.",
     "age": 24,
@@ -918,6 +921,7 @@
     "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/chiesa.webp"
   },
   {
+    "id": "PLAYER-038",
     "name": "Thomas Partey",
     "description": "Ghanaian professional footballer, known for his strength and passing ability.",
     "age": 28,
@@ -939,6 +943,7 @@
     "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/partey.webp"
   },
   {
+    "id": "PLAYER-039",
     "name": "Riyad Mahrez",
     "description": "Algerian professional footballer, known for his dribbling skills and agility.",
     "age": 31,
@@ -960,6 +965,7 @@
     "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/mahrez.webp"
   },
   {
+    "id": "PLAYER-040",
     "name": "João Félix",
     "description": "Portuguese professional footballer, known for his dribbling skills and finishing ability.",
     "age": 23,
@@ -981,6 +987,7 @@
     "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/felix.webp"
   },
      {
+    "id": "PLAYER-041",
     "name": "Andrés Iniesta",
     "description": "Spanish former professional footballer, renowned for his vision and passing ability.",
     "age": 39,
@@ -1002,6 +1009,7 @@
     "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/iniesta.webp"
   },
   {
+    "id": "PLAYER-042",
     "name": "Paolo Maldini",
     "description": "Italian former professional footballer, known for his exceptional defending and leadership.",
     "age": 54,
@@ -1023,6 +1031,7 @@
     "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/maldini.webp"
   },
   {
+    "id": "PLAYER-043",
     "name": "Xavi Hernandez",
     "description": "Spanish former professional footballer, known for his exceptional passing and game intelligence.",
     "age": 43,
@@ -1044,6 +1053,7 @@
     "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/xavi.webp"
   },
   {
+    "id": "PLAYER-044",
     "name": "Franz Beckenbauer",
     "description": "German former professional footballer, known for his elegance and versatility as a player.",
     "age": 76,
