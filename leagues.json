@@ -1,5 +1,6 @@
-[
-  {
+{
+  "leagues": [
+    {
     "id": "LEAGUE-001",
     "League": "Premier League",
     "Total Market Value": "£11,080,000,000",
@@ -199,4 +200,5 @@
     "Active": "active",
     "Last Updated": "2024-03-27"
   }
+    }
 ]
