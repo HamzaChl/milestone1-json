@@ -799,6 +799,8 @@
     "nationality": "Brazil",
     "position": "Goalkeeper",
     "cleanSheets": 120,
+     "goalsScored": 1,
+      "assists": 0,
     "number": 1,
     "club-infos": {
       "id": "CLUB-009",
