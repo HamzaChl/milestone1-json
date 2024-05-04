@@ -1229,6 +1229,28 @@
     },
     "marketValue": "N/A",
     "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/moore.webp"
-  }
+  },
+    {
+  "id": "PLAYER-051",
+  "name": "Michy Batshuayi",
+  "description": "Belgian professional footballer, known for his goal-scoring ability and attacking play.",
+  "age": 28,
+  "birthdate": "1993-10-02",
+  "nationality": "Belgium",
+  "position": "Forward",
+  "goalsScored": 130,
+  "assists": 43,
+  "number": 23,
+  "status": "active",
+  "club-infos": {
+    "id": "CLUB-051",
+    "club": "Fenerbahçe",
+    "league": "Super Lig",
+    "stadium": "Ülker Stadium",
+    "manager": "N/A"
+  },
+  "marketValue": "€15,000,000",
+  "imageURL": "https://raw.githubusercontent.com/hamzachl/milestone1-pictureurls/main/images/batshuayi.webp"
+}
   ]
 }
